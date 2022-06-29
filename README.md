@@ -1,16 +1,22 @@
-### Hi there 👋
+ 👋Hi, I’m @Avinash Strong Education professional with a Bachelor of Engineering focused in Computer Programming from Solapur University & Full Stack Web Development Course From Masai School.
 
-<!--
-**Avinash7249/Avinash7249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 
 
-Here are some ideas to get you started:
+•   Web Development, HTML, CSS, Javascript, Microsoft Office, Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project Work -
+
+•   Designed Cloned Website of Hamleys.in - https://rainbow-manatee-610ca3.netlify.app/                                                                                        
+•   Designed Fully functional Website - https://steady-lamington-eca771.netlify.app/                                                                                                                 
+•   Designed Fully functional Website - https://harmonious-lebkuchen-b3555a.netlify.app/
+
+## Some Interesting Fact about me -
+
+•   I am a quick learner.
+
+•   I enjoy learning new things
+
+•   I have creative mind. Always think to do any work in different ways.
+
+•   I love to cook different dishes.
+
