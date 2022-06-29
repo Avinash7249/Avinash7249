@@ -1,4 +1,5 @@
- 👋Hi, I’m @Avinash Strong Education professional with a Bachelor of Engineering focused in Computer Programming from Solapur University & Full Stack Web Development Course From Masai School.
+ 👋Hi, I’m @Avinash 
+ Strong Education professional with a Bachelor of Engineering focused in Computer Programming from Solapur University & Full Stack Web Development Course From Masai       School.
 
 ## Skills 
 
