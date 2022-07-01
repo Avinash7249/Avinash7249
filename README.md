@@ -1,23 +1,33 @@
- 👋Hi, I’m @Avinash 
- Strong Education professional with a Bachelor of Engineering focused in Computer Programming from Solapur University & Full Stack Web Development Course From Masai       School.
+ # Hello 👋🏻
+ #     My name is Avinash.
+ #     Why I'm a Web Developer by Profession & Hobby ?
+ 
+ 
+ 
+ 
+ 
+I am Avinash Ghatanure. I have completed my graduation From Walchand institute of technology Solapur in the mechanical stream with flying colors.Basically when I was working on my final year project is Design of UAV that I have learned the basics of UAV and so many things but that one thing triggered me to learn programming that is how exactly wireless remote works because we are controlling UAV with remote only and I have studied little bit of c in my first year.
+
 
 ## Skills 
 
-•   Web Development, HTML, CSS, Javascript, Microsoft Office, Java.
+* Web Development, HTML, CSS, Javascript, Microsoft Office, Java.
 
 ## Project Work -
 
-•   Designed Cloned Website of Hamleys.in - https://rainbow-manatee-610ca3.netlify.app/                                                                                        
-•   Designed Fully functional Website - https://steady-lamington-eca771.netlify.app/                                                                                                                 
-•   Designed Fully functional Website - https://harmonious-lebkuchen-b3555a.netlify.app/
+*   Designed Cloned Website of Hamleys.in - https://rainbow-manatee-610ca3.netlify.app/                                                                                        
+*   Designed Fully functional Website - https://steady-lamington-eca771.netlify.app/                                                                                                                 
+*   Designed Fully functional Website - https://harmonious-lebkuchen-b3555a.netlify.app/
 
 ## Some Interesting Fact about me -
 
-•   I am a quick learner.
+*   I am a book lover.
 
-•   I enjoy learning new things
+*   I am a quick learner.
 
-•   I have creative mind. Always think to do any work in different ways.
+*   I enjoy learning new things
 
-•   I love to cook different dishes.
+*   I have creative mind. Always think to do any work in different ways.
+
+*   I love to cook different dishes.
 
