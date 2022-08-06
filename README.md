@@ -1,6 +1,6 @@
  # Hello 👋🏻
- #     My name is Avinash.
- #     Why I'm a Web Developer by Profession & Hobby ?
+ #     I am  Avinash ,
+
  
  
  
