@@ -6,12 +6,11 @@
  
  
  
-I am Avinash Ghatanure. I have completed my graduation From Walchand institute of technology Solapur in the mechanical stream with flying colors.Basically when I was working on my final year project is Design of UAV that I have learned the basics of UAV and so many things but that one thing triggered me to learn programming that is how exactly wireless remote works because we are controlling UAV with remote only and I have studied little bit of c in my first year.
-
+Ambitious and adventurous aspiring Backend Developer with specialization in Java, MySQL, RDBMS, Spring Boot, and REST API.Passionate about coding and learning new technologies.Looking forward to working in a reputed company.
 
 ## Skills 
 
-* Web Development, HTML, CSS, Javascript, Microsoft Office, Java.
+* Java , MySQL , Spring , SpringBoot , HTML, CSS, Javascript, Microsoft Office.
 
 ## Project Work -
 
