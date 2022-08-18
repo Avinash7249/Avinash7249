@@ -1,8 +1,16 @@
- <div align="center">
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+
+
+
+<div align="center">
 <img width="100%" height = "250px" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz" alt="cover" />
 </div>
- 
- <h1 align="center">Hi 👋, I'm Avinash Ghatanure</h1>
+ <p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Avinash7249.Avinash7249)
+
+</p>
+ <h1 align="center">I'm Avinash Ghatanure</h1>
  <h3 align="center">A passionate Backend developer from India</h3>
  
 
