@@ -39,7 +39,7 @@ Ambitious and adventurous aspiring Backend Developer with specialization in Java
 
 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://avinashghatanure.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://avinashghatanureportfolio.netlify.app/)
 
 
 
