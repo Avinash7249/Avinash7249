@@ -1,3 +1,7 @@
+ <div align="center">
+<img width="100%" height = "250px" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz" alt="cover" />
+</div>
+ 
  <h1 align="center">Hi 👋, I'm Avinash Ghatanure</h1>
  <h3 align="center">A passionate Backend developer from India</h3>
  
@@ -27,13 +31,13 @@ Ambitious and adventurous aspiring Backend Developer with specialization in Java
 
 
 
-- 👨‍💻 All of my projects are available at [https://avinashghatanure.netlify.app/](https://avinashghatanure.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://avinashghatanure.netlify.app/)
 
 
 
 - 📫 How to reach me **ghatanureavin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1q15E9RD9efOX3Ea7qEnQixZY3qf3gVeT?usp=sharing](https://drive.google.com/drive/folders/1q15E9RD9efOX3Ea7qEnQixZY3qf3gVeT?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1q15E9RD9efOX3Ea7qEnQixZY3qf3gVeT?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
