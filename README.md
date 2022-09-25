@@ -24,15 +24,15 @@ Ambitious and adventurous aspiring Backend Developer with specialization in Java
 
 ## Some Interesting Fact about me -
 
-*   I am a book lover.
+*   A book lover.
 
-*   I am a quick learner.
+*   A quick learner.
 
-*   I enjoy learning new things
+*   Learning new things
 
-*   I have creative mind. Always think to do any work in different ways.
+*   Always think to do any work in different ways.
 
-*   I love to cook different dishes.
+
 
 
 
